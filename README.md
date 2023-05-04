@@ -6,5 +6,4 @@ Example-
 2) Movie at 4Pm in Theater.
 Disadvatange- 1) Already produced data at a particular pt. of time cannnot be recovered. We will only get data when we join.
  2) Resource wastage because when consumer isn't consuming data, but still producers are producing.
- 3) Manual close
-.
+ 3) Manual close.
